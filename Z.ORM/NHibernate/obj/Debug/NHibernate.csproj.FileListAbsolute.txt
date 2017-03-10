@@ -1,0 +1,9 @@
+E:\代码库\Z\Z\Z.ORM\NHibernate\obj\Debug\NHibernate.csprojResolveAssemblyReference.cache
+E:\代码库\Z\Z\Z.ORM\NHibernate\bin\Debug\NHibernate.exe
+E:\代码库\Z\Z\Z.ORM\NHibernate\bin\Debug\NHibernate.pdb
+E:\代码库\Z\Z\Z.ORM\NHibernate\bin\Debug\Iesi.Collections.dll
+E:\代码库\Z\Z\Z.ORM\NHibernate\bin\Debug\NHibernate.dll
+E:\代码库\Z\Z\Z.ORM\NHibernate\bin\Debug\Iesi.Collections.xml
+E:\代码库\Z\Z\Z.ORM\NHibernate\bin\Debug\NHibernate.xml
+E:\代码库\Z\Z\Z.ORM\NHibernate\obj\Debug\NHibernate.exe
+E:\代码库\Z\Z\Z.ORM\NHibernate\obj\Debug\NHibernate.pdb

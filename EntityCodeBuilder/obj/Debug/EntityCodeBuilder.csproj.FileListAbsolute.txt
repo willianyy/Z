@@ -1,0 +1,17 @@
+E:\代码库\Z\Z\EntityCodeBuilder\obj\Debug\EntityCodeBuilder.csprojResolveAssemblyReference.cache
+E:\代码库\Z\Z\EntityCodeBuilder\obj\Debug\EntityCodeBuilder.Properties.Resources.resources
+E:\代码库\Z\Z\EntityCodeBuilder\obj\Debug\EntityCodeBuilder.csproj.GenerateResource.Cache
+E:\代码库\Z\Z\EntityCodeBuilder\obj\Debug\WindowsDemo.Form1.resources
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\EntityCodeBuilder.exe.config
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\EntityCodeBuilder.exe
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\EntityCodeBuilder.pdb
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\Entity.dll
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\Mast.dll
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\mysql.data.dll
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\SyntaxTextBox.dll
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\System.Data.SQLite.dll
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\Entity.pdb
+E:\代码库\Z\Z\EntityCodeBuilder\bin\Debug\Mast.pdb
+E:\代码库\Z\Z\EntityCodeBuilder\obj\Debug\EntityCodeBuilder.exe
+E:\代码库\Z\Z\EntityCodeBuilder\obj\Debug\EntityCodeBuilder.pdb
